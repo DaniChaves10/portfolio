@@ -37,9 +37,7 @@ async function getAboutGithub() {
             <article class="about-content">
                 <h2>Sobre mim</h2>
                 <p>Sou formado em Análise e Desenvolvimento de Sistemas e, ao longo da minha trajetória, desenvolvi uma mentalidade orientada ao aprendizado autodidata e à resolução de problemas complexos. Sou um entusiasta do ecossistema JavaScript e estou sempre explorando novas formas de integrar o Front-end com arquiteturas de backend sólidas. Meu objetivo atual é integrar uma equipe de engenharia de software onde eu possa contribuir com meu conhecimento técnico, aplicar a mentalidade de alta performance que desenvolvo na Generation e crescer junto a profissionais que valorizam a inovação e o impacto positivo por meio da tecnologia.</p>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis deleniti consectetur doloremque
-                    dolor molestiae provident tempora facilis, voluptatum, suscipit quidem hic voluptatem consequatur?
-                    Autem iste, doloribus minima possimus eius laboriosam.
+                <p>Atualmente estou aprimorando meus conhecimentos em desenvolvimento Full Stack, com foco em Java, Spring Boot, JavaScript, React, HTML, CSS e bancos de dados. Durante minha formação, venho desenvolvendo projetos práticos e trabalhando em equipe, buscando evoluir tanto minhas habilidades técnicas quanto minha comunicação e capacidade de resolver problemas.
                 </p>
 
                 <!-- Links (Github + Curriculo) e Dados do Github -->
